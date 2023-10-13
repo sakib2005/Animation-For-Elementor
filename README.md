@@ -1,5 +1,5 @@
 # Animation-For-Elementor
-> CSS Animations Collection with Documentation For website build with Elementor
+<span style="color:blue;">CSS Animations Collection with Documentation For websites built with Elementor</span>
 
 
 
